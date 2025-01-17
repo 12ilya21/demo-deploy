@@ -9,8 +9,8 @@ class DemoDeployApplicationTests {
     @Test
     void contextLoads() {
         // 단위 테스트
-        int a = 1/0;
-        throw new RuntimeException("오류발생");
+//        int a = 1/0;
+//        throw new RuntimeException("오류발생");
         // MVX 테스트 -> 목업 통해서 가상 처리 가능
         // RestAPI 테스트 가능
         //System.out.println("단위 테스트 호출 echo");
