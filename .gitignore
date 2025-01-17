@@ -6,7 +6,7 @@ build/
 !**/src/test/**/build/
 
 ### 깃허브에 반영 안함
-src/main/resources/application.properties
+!**/src/main/resources/application.properties
 
 ### STS ###
 .apt_generated
